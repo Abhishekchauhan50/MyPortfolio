@@ -5,7 +5,7 @@ function Connection() {
     <>
     <div className='px-7 py-7 '>
         <div>
-            <h1 className='font-semibold text-[1.4rem] py-7'>Get in touch</h1>
+            <h1 className='font-semibold text-[1.4rem] py-7'>Get in touch <i class="ri-phone-fill text-zinc-600"></i></h1>
         </div>
         <div className='bg-zinc-800 px-7 py-3 flex flex-col rounded-lg  gap-4 '>
             <div className='flex flex-col items-center gap-7 lg:flex-row lg:justify-evenly'>
